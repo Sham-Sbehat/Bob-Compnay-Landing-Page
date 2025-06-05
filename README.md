@@ -20,7 +20,7 @@ To learn and implement **SASS (SCSS)** features like variables, mixins, nesting,
 
 - **HTML5**
 - **SASS (SCSS)**
-- 
+  
 ## 📸 Screenshot
 
 ![Screenshot](https://i.imgur.com/hY3Mkfn.png) 
